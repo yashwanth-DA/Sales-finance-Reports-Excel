@@ -25,7 +25,8 @@
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
+  
+   https://github.com/yashwanth-DA/Sales-finance-Reports-Excel/blob/main/Sales%20and%20Finance%20Reports.pdf
 
 ## Techniques used to generate Reports
 - Incorporated ETL methodology (Extract, Transform, Load).
